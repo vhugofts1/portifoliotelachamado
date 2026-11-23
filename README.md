@@ -9,7 +9,7 @@
 
 O **Sistema de Gestão de Chamados** nasceu da necessidade de modernizar e desburocratizar o fluxo de atendimento de TI/Suporte. O objetivo primário foi desenhar uma jornada fluida que reduzisse a frustração do usuário na hora de relatar um problema e, ao mesmo tempo, entregasse dados estruturados e de alta qualidade para a equipe de resolução.
 
-![Tela de Login](assets/tela_login.png)
+![Tela de Login](assets/tela_login)
 
 ---
 
